@@ -1,0 +1,13 @@
+C:\Users\FundaFüsun\Desktop\Proj\KatmanliMimari\DAL\bin\Debug\DAL.dll
+C:\Users\FundaFüsun\Desktop\Proj\KatmanliMimari\DAL\bin\Debug\DAL.pdb
+C:\Users\FundaFüsun\Desktop\Proj\KatmanliMimari\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\FundaFüsun\Desktop\Proj\KatmanliMimari\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\FundaFüsun\Desktop\Proj\KatmanliMimari\DAL\obj\Debug\DAL.dll
+C:\Users\FundaFüsun\Desktop\Proj\KatmanliMimari\DAL\obj\Debug\DAL.pdb
+C:\Users\FundaFüsun\Desktop\Finalproje\Finalproje\DAL\bin\Debug\DAL.dll
+C:\Users\FundaFüsun\Desktop\Finalproje\Finalproje\DAL\bin\Debug\DAL.pdb
+C:\Users\FundaFüsun\Desktop\Finalproje\Finalproje\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\FundaFüsun\Desktop\Finalproje\Finalproje\DAL\obj\Debug\DAL.dll
+C:\Users\FundaFüsun\Desktop\Finalproje\Finalproje\DAL\obj\Debug\DAL.pdb
+C:\Users\FundaFüsun\Desktop\Finalproje\Finalproje\DAL\bin\Debug\veritab.accdb
+C:\Users\FundaFüsun\Desktop\Finalproje\Finalproje\DAL\obj\Debug\DAL.csprojAssemblyReference.cache

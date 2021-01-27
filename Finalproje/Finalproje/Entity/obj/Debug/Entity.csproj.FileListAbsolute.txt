@@ -1,0 +1,17 @@
+C:\Users\FundaFüsun\Desktop\Proj\KatmanliMimari\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\FundaFüsun\Desktop\Proj\KatmanliMimari\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\FundaFüsun\Desktop\Proj\KatmanliMimari\EntityLayer\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\FundaFüsun\Desktop\Proj\KatmanliMimari\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\FundaFüsun\Desktop\Proj\KatmanliMimari\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\FundaFüsun\Desktop\Proj\KatmanliMimari\Entity\bin\Debug\EntityLayer.dll
+C:\Users\FundaFüsun\Desktop\Proj\KatmanliMimari\Entity\bin\Debug\EntityLayer.pdb
+C:\Users\FundaFüsun\Desktop\Proj\KatmanliMimari\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\FundaFüsun\Desktop\Proj\KatmanliMimari\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\FundaFüsun\Desktop\Proj\KatmanliMimari\Entity\obj\Debug\EntityLayer.dll
+C:\Users\FundaFüsun\Desktop\Proj\KatmanliMimari\Entity\obj\Debug\EntityLayer.pdb
+C:\Users\FundaFüsun\Desktop\Finalproje\Finalproje\Entity\bin\Debug\EntityLayer.dll
+C:\Users\FundaFüsun\Desktop\Finalproje\Finalproje\Entity\bin\Debug\EntityLayer.pdb
+C:\Users\FundaFüsun\Desktop\Finalproje\Finalproje\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\FundaFüsun\Desktop\Finalproje\Finalproje\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\FundaFüsun\Desktop\Finalproje\Finalproje\Entity\obj\Debug\EntityLayer.dll
+C:\Users\FundaFüsun\Desktop\Finalproje\Finalproje\Entity\obj\Debug\EntityLayer.pdb
